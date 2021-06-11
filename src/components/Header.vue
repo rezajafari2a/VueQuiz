@@ -18,7 +18,7 @@
         </b-nav-item-dropdown>
       </b-navbar-nav>
     </b-navbar>
-    Correct {{ correctCount }}/{{ totalCount }}
+    <p class="text-center">Correct {{ correctCount }}/{{ totalCount }}</p>
   </div>
 </template>
 
